@@ -2,13 +2,13 @@
 
 - Hi, I'm `Ganesh Kale`, the Software Engineer at Accenture, living in Pune, India.
 
----
+<br />
 
 ## About this project
 
 - This project is basically a landing page developed with HTML and CSS.
 
----
+<br />
 
 # Project_01 - HTML and CSS
 
